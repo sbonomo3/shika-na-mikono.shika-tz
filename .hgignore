@@ -1,0 +1,8 @@
+syntax: glob
+
+# Don't track LaTeX build files
+*.aux
+*.log
+*.pdf
+*.toc
+
