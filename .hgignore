@@ -5,6 +5,8 @@ syntax: glob
 *.log
 *.pdf
 *.toc
+*.out
+*.synctex.gz
 
 # Ignore backbone file in shika-int
 shika-int.tex
