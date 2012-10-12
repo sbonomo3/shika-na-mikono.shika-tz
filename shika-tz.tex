@@ -9,24 +9,7 @@
 % It's job is to set the global parameters and order the chapters.
 % Each chapter lives in a different file (all in the tex folder)
 % This keeps everything more organized.
-
-% The code begins...
-\ifx\pdfoutput\undefined
-	% using latex
-	\documentclass[10pt,a4paper]{report}
-	\usepackage[dvips]{graphicx}
-\else
-	% using pdflatex
-	\documentclass[pdftex,10pt,a4paper]{report}
-	\usepackage[pdftex]{graphicx}
-	\DeclareGraphicsExtensions{.pdf,.png,.jpg}
-	\usepackage{hyperref}
-	\hypersetup{
-  		colorlinks,%
-  		linkcolor=blue,%
-  		urlcolor=red
-	}
-\fi
+\documentclass[pdftex,10pt,a4paper]{report}
 
 % We want a variety of style packages.
 % We have them in a separate file - shika.sty - to keep this file tidy.
