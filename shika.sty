@@ -1,0 +1,31 @@
+% This file is dedicated to calling all of the different LaTeX packages that get used in the various .tex files throughout the document. 
+
+% Documentation and specific info on each package (and every LaTeX package known to man) can be found in the "doc" file (opens in a web browser) within the main texlive folder on your C: drive.
+
+\ProvidesPackage{shika}
+
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[version=3]{mhchem}
+\usepackage[USenglish]{babel}
+\usepackage{fontenc}
+\usepackage{pdflscape}
+\usepackage{longtable}
+\setcounter{tocdepth}{1}
+\usepackage{mdwlist}
+\usepackage{multirow}
+%\usepackage{enumitem}
+
+\usepackage{hyperref}
+\hypersetup{colorlinks, linkcolor=blue, urlcolor=red}
+
+\usepackage[pdftex]{graphicx}
+\DeclareGraphicsExtensions{.pdf,.png,jpg}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\usepackage[margin=1.25in]{geometry}
