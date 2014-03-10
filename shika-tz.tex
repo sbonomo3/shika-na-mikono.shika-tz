@@ -41,7 +41,10 @@
 % ...but we do not want a page number to appear on the table of contents
 \thispagestyle{empty}
 
-% The rest of the book follows, in five parts
+% The rest of the book follows, divided into different parts
+
+% For these early Parts, we only want to show up to the Chapter level in Table of Contents
+\settocdepth{chapter} 
 
 % Part 1 - Lab Development
 \input{./tex/part-lab-development.tex} % This is a page dedicated to annoucing Part 1
@@ -81,13 +84,24 @@
 \input{./tex/low-power-microscopy.tex}
 
 % Part 5 - NECTA Practicals
+\settocdepth{subsection} % Now we want to show up to the subsection level in the ToC
 \input{./tex/part-necta-practicals.tex}
 \input{./tex/biology-practicals.tex}
 \input{./tex/chemistry-practicals.tex}
 \input{./tex/physics-practicals.tex}
+\settocdepth{section} % Return to default
 
 % Appendix Chapters
-\appendix % Anything coming after this indicator is just counted as a chapter in the appendix
+% Any chapters coming after the \appendix command are just counted as chapters in the appendix
+\appendix 
+
+% NECTA Past Papers
+\input{./tex/part-past-papers.tex}
+\input{./tex/past-papers-bio.tex}
+\input{./tex/past-papers-chem.tex}
+\input{./tex/past-papers-phys.tex}
+
+% Other appendix chapters
 \input{./tex/sources-of-equipment.tex}
 \input{./tex/sources-of-chemicals.tex}
 \input{./tex/glossary.tex}
