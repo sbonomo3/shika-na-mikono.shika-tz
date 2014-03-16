@@ -1,0 +1,111 @@
+% SHIKA NA MIKONO v4.0
+
+% This code is published with the GNU General Public License v2.
+
+% The remaining comments explain the code.
+% -------------------------------------------
+
+% This file - shika-tz.tex - is the backbone file for the manual.
+% It's job is to set the global parameters and order the chapters.
+% Each chapter lives in a different file (all in the tex folder)
+% This keeps everything more organized.
+
+% Before actually getting to the document itself, we need some PREAMBLE info - state the class of document and declare any LaTeX packages we are going to use.
+\documentclass[pdftex,10pt,a4paper]{report}
+
+% We want a variety of style packages.
+% We have them in a separate file - shika.sty - to keep this file tidy.
+% This command calls all of them at once.
+\usepackage{shika}
+
+% Now the document can begin:
+\begin{document}
+
+% The input command inserts the content of another file into this master document.
+% Here it calls for the title page, title.tex
+\input{./tex/title.tex}
+
+\input{./tex/contact-info.tex}
+
+% To make page numbers consistent w/ the numbering in the PDF viewer.
+% (e.g. page 35 is actually page 35 in the .pdf)
+\setcounter{page}{2} 
+
+% Some front matter...
+\input{./tex/about-this-book.tex}
+\input{./tex/teaching-philosophy.tex}
+
+% Now a table of contents:
+\tableofcontents
+
+% ...but we do not want a page number to appear on the table of contents
+\thispagestyle{empty}
+
+% The rest of the book follows, divided into different parts
+
+% For these early Parts, we only want to show up to the Chapter level in Table of Contents
+\settocdepth{chapter} 
+
+% Part 1 - Lab Development
+\input{./tex/part-lab-development.tex} % This is a page dedicated to annoucing Part 1
+\input{./tex/starting-school-labs.tex}
+\input{./tex/technical-lab-needs.tex}
+\input{./tex/improving-existing-labs.tex}
+\input{./tex/testing-voltmeters.tex}
+\input{./tex/burette-repair.tex}
+\input{./tex/identifying-unknown-chemicals.tex}
+
+% Part 2 - Lab Safety
+\input{./tex/part-lab-safety.tex}
+\input{./tex/laboratory-safety.tex}
+\input{./tex/first-aid.tex}
+\input{./tex/dangerous-chemicals.tex}
+\input{./tex/dangerous-techniques.tex}
+
+% Part 3 - Lab Management
+\input{./tex/part-lab-management.tex}
+\input{./tex/lab-classroom-management.tex}
+\input{./tex/routine-upkeep.tex}
+\input{./tex/waste-disposal.tex}
+\input{./tex/recycling-silver-nitrate.tex}
+\input{./tex/recycling-organic-waste.tex}
+\input{./tex/industrial-ecology.tex}
+
+% Part 4 - Lab Techniques
+\input{./tex/part-lab-techniques.tex}
+\input{./tex/using-a-beam-balance.tex}
+\input{./tex/using-a-plastic-syringe.tex}
+\input{./tex/measures-of-concentration.tex}
+\input{./tex/calculating-bottle-molarity.tex}
+\input{./tex/preservation-of-specimens.tex}
+\input{./tex/dissection.tex}
+\input{./tex/culture-media.tex}
+\input{./tex/using-a-microscope.tex}
+\input{./tex/low-power-microscopy.tex}
+
+% Part 5 - NECTA Practicals
+\settocdepth{subsection} % Now we want to show up to the subsection level in the ToC
+\input{./tex/part-necta-practicals.tex}
+\input{./tex/biology-practicals.tex}
+\input{./tex/chemistry-practicals.tex}
+\input{./tex/physics-practicals.tex}
+\settocdepth{section} % Return to default
+
+% Appendix Chapters
+% Any chapters coming after the \appendix command are just counted as chapters in the appendix
+\appendix 
+
+% NECTA Past Papers
+\input{./tex/part-past-papers.tex}
+\input{./tex/past-papers-bio.tex}
+\input{./tex/past-papers-chem.tex}
+\input{./tex/past-papers-phys.tex}
+
+% Other appendix chapters
+\input{./tex/sources-of-equipment.tex}
+\input{./tex/sources-of-chemicals.tex}
+\input{./tex/glossary.tex}
+%\input{./tex/qa-guidesheet.tex}
+
+% That's it!
+\end{document}
