@@ -92,7 +92,7 @@
 \settocdepth{section} % Return to default
 
 % Appendix Chapters
-% Any chapters coming after the \appendix command are just counted as chapters in the appendix
+% Any chapters inserted after the \appendix command are just counted as chapters in the appendix. No need to change anything about the chapters themselves.
 \appendix 
 
 % NECTA Past Papers
@@ -102,11 +102,17 @@
 \input{./tex/past-papers-phys.tex}
 
 % Other appendix chapters
+\settocdepth{chapter} % Keep the ToC nice and tidy for these appendices.
 \input{./tex/sources-of-equipment.tex}
-\input{./tex/sources-of-chemicals.tex}
+%\input{./tex/sources-of-chemicals.tex}
 \input{./tex/glossary.tex}
 %\input{./tex/qa-guidesheet.tex}
 %\input{./tex/notes.tex}
+
+% Print the index at the end and...
+\clearpage
+\addcontentsline{toc}{chapter}{Index}
+\printindex
 
 % That's it!
 \end{document}
