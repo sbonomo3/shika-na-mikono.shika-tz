@@ -1,25 +1,293 @@
 \begin{theindex}
 
-  \item Past Papers, \hyperpage{138}
-    \subitem Biology, \hyperpage{140}
-      \subsubitem 2007, \hyperpage{147}
-      \subsubitem 2008, \hyperpage{146}
-      \subsubitem 2009, \hyperpage{145}
-      \subsubitem 2010, \hyperpage{144}
-      \subsubitem 2011, \hyperpage{143}
-      \subsubitem 2012, \hyperpage{142}
-      \subsubitem 2013, \hyperpage{141}
-    \subitem Chemistry, \hyperpage{148}
-    \subitem Physics, \hyperpage{149}
-      \subsubitem 2004, \hyperpage{170}
-      \subsubitem 2005, \hyperpage{168}
-      \subsubitem 2006, \hyperpage{166}
-      \subsubitem 2007, \hyperpage{163}
-      \subsubitem 2008, \hyperpage{160}
-      \subsubitem 2009, \hyperpage{158}
-      \subsubitem 2010, \hyperpage{155}
-      \subsubitem 2011, \hyperpage{154}
-      \subsubitem 2012, \hyperpage{152}
-      \subsubitem 2013, \hyperpage{150}
+  \item Alligator clips, \hyperpage{192}
+  \item Ammeters
+    \subitem  checking, \hyperpage{16}
+
+  \indexspace
+
+  \item Beakers, \hyperpage{192}
+  \item Beam balance
+    \subitem  construction of, \hyperpage{192}
+    \subitem  use of, \hyperpage{54}
+  \item Benedict's solution
+    \subitem  for food tests, \hyperpage{78}
+  \item Blowpipe, \hyperpage{192}
+  \item Box of fun, \hyperpage{137}
+  \item Bulbs, \hyperpage{192}
+  \item Bunsen burner, \hyperindexformat{\see{Heat sources}}{193}
+  \item Burettes
+    \subitem  repairing, \hyperpage{17}
+    \subitem  sources of, \hyperpage{193}
+
+  \indexspace
+
+  \item Chemical kinetics, \hyperpage{114}
+  \item Chemicals
+    \subitem  dangerous, \hyperpage{35}
+    \subitem  unknown, \hyperpage{19}
+  \item Circuit components, \hyperpage{193}
+  \item Citric acid
+    \subitem  for food tests, \hyperpage{79}
+    \subitem  preparation of, \hyperpage{63}
+  \item Classification, \hyperpage{83}
+  \item Containers, \hyperpage{193}
+  \item Copper, \hyperindexformat{\see{Electrodes}}{194}
+  \item Copper sulphate
+    \subitem  for food tests, \hyperpage{78}
+  \item Cover slips, \hyperpage{199}
+  \item Critical angle, \hyperpage{130}
+  \item Crucible, \hyperpage{193}
+  \item Culture media, \hyperpage{70}
+
+  \indexspace
+
+  \item Deflagrating spoon, \hyperpage{193}
+  \item Delivery tube, \hyperpage{193}
+  \item Dissection, \hyperpage{68}
+  \item Drawing board, \hyperpage{194}
+  \item Droppers, \hyperpage{194}
+
+  \indexspace
+
+  \item Electrodes, \hyperpage{194}
+    \subitem  holders, \hyperpage{194}
+  \item Equilibrium, \hyperindexformat{\see{Chemical kinetics}}{114}
+  \item Equipment
+    \subitem  salvaging, \hyperpage{16}
+    \subitem  sources of, \hyperpage{191}
+  \item Ethanol
+    \subitem  hazards and use of, \hyperpage{40}
+  \item Eureka can, \hyperpage{194}
+
+  \indexspace
+
+  \item Filter paper, \hyperpage{195}
+  \item First aid, \hyperpage{32}
+  \item Flasks, \hyperpage{195}
+  \item Food tests, \hyperpage{78}
+  \item Funnel, \hyperpage{195}
+
+  \indexspace
+
+  \item Gallery walk, \hyperpage{137}
+  \item Glass blocks, \hyperpage{195}
+  \item Gloves, \hyperpage{195}
+  \item Goggles, \hyperpage{195}
+  \item Graphite, \hyperindexformat{\see{Electrodes}}{194}
+
+  \indexspace
+
+  \item Heat sources, \hyperpage{196}
+  \item Hooke's law, \hyperpage{122}
+  \item Hydrochloric acid
+    \subitem  for food tests, \hyperpage{79}
+    \subitem  identification of, \hyperpage{21}
+  \item Hydrogen peroxide
+    \subitem  identification of, \hyperpage{23}
+
+  \indexspace
+
+  \item Indicators
+    \subitem  preparation of, \hyperpage{97}
+    \subitem  properties of, \hyperpage{96}
+    \subitem  sources of, \hyperpage{197}
+  \item Industrial ecology, \hyperpage{51}
+  \item Iodine solution
+    \subitem  for food tests, \hyperpage{78}
+    \subitem  identification of, \hyperpage{23}
+  \item Iron, \hyperindexformat{\see{Electrodes}}{194}
+  \item Iron filings, \hyperpage{197}
+
+  \indexspace
+
+  \item Laboratory
+    \subitem  classroom management, \hyperpage{44}
+    \subitem  cleanup and upkeep, \hyperpage{46}
+    \subitem  improving, \hyperpage{14}
+    \subitem  rules, \hyperpage{28}
+    \subitem  safety guidelines, \hyperpage{28}
+    \subitem  starting, \hyperpage{10}
+    \subitem  technical needs, \hyperpage{11}
+  \item Laboratory techniques, \hyperpage{53}
+    \subitem  Biology, \hyperpage{67}
+    \subitem  Chemistry, \hyperpage{54}
+
+  \indexspace
+
+  \item Masses, \hyperindexformat{\see{Weights}}{197}
+  \item Measuring cylinder, \hyperpage{197}
+  \item Metre bridge, \hyperpage{132}
+  \item Metre rule, \hyperpage{197}
+  \item Microscope
+    \subitem  low tech, \hyperpage{74}
+    \subitem  use of, \hyperpage{72}
+  \item Mirrors, \hyperpage{197}
+    \subitem  curved, \hyperpage{197}
+    \subitem  plane, \hyperpage{197}
+      \subsubitem  practical of, \hyperpage{127}
+  \item Molality, \hyperpage{59}
+  \item Molarity
+    \subitem  calculating for bottled liquids, \hyperpage{60}
+    \subitem  measure of, \hyperpage{58}
+  \item Mortar and pestle, \hyperpage{197}
+
+  \indexspace
+
+  \item NECTA Practicals, \hyperindexformat{\see{Practicals}}{77}
+  \item Normality, \hyperpage{58}
+
+  \indexspace
+
+  \item Ohm's law, \hyperpage{134}
+  \item Optical pins, \hyperpage{198}
+  \item Organic waste
+    \subitem  disposal of, \hyperpage{48}
+    \subitem  recycling, \hyperpage{50}
+
+  \indexspace
+
+  \item Past Papers, \hyperpage{146}
+    \subitem Biology, \hyperpage{148}
+      \subsubitem 2007, \hyperpage{155}
+      \subsubitem 2008, \hyperpage{154}
+      \subsubitem 2009, \hyperpage{153}
+      \subsubitem 2010, \hyperpage{152}
+      \subsubitem 2011, \hyperpage{151}
+      \subsubitem 2012, \hyperpage{150}
+      \subsubitem 2013, \hyperpage{149}
+    \subitem Chemistry, \hyperpage{156}
+      \subsubitem  2007, \hyperpage{165}
+      \subsubitem  2010, \hyperpage{163}
+      \subsubitem  2011, \hyperpage{161}
+      \subsubitem  2012, \hyperpage{159}
+      \subsubitem  2013, \hyperpage{157}
+    \subitem Physics, \hyperpage{167}
+      \subsubitem 2004, \hyperpage{188}
+      \subsubitem 2005, \hyperpage{186}
+      \subsubitem 2006, \hyperpage{184}
+      \subsubitem 2007, \hyperpage{181}
+      \subsubitem 2008, \hyperpage{178}
+      \subsubitem 2009, \hyperpage{176}
+      \subsubitem 2010, \hyperpage{173}
+      \subsubitem 2011, \hyperpage{172}
+      \subsubitem 2012, \hyperpage{170}
+      \subsubitem 2013, \hyperpage{168}
+  \item Phenolphthalein
+    \subitem  preparation of, \hyperpage{97}
+  \item Photosynthesis, \hyperpage{89}
+  \item Pipettes, \hyperpage{198}
+    \subitem  mouth pipetting, \hyperpage{41}
+  \item Potentiometers, \hyperpage{131}
+  \item Practicals, \hyperpage{77}
+    \subitem  Biology, \hyperpage{77}
+      \subsubitem  classification, \hyperpage{83}
+      \subsubitem  food tests, \hyperpage{78}
+      \subsubitem  photosynthesis, \hyperpage{89}
+      \subsubitem  respiration, \hyperpage{86}
+      \subsubitem  transport, \hyperpage{87}
+    \subitem  Chemistry, \hyperpage{92}
+      \subsubitem  chemical kinetics and equilibrium, \hyperpage{114}
+      \subsubitem  qualitative analysis, \hyperpage{100}
+      \subsubitem  volumetric analysis, \hyperpage{93}
+    \subitem  Physics, \hyperpage{118}
+      \subsubitem  Hooke's law, \hyperpage{122}
+      \subsubitem  mathematics of, \hyperpage{120}
+      \subsubitem  metre bridge, \hyperpage{132}
+      \subsubitem  Ohm's law, \hyperpage{134}
+      \subsubitem  plane mirror, \hyperpage{127}
+      \subsubitem  potentiometers, \hyperpage{131}
+      \subsubitem  principle of moments, \hyperpage{125}
+      \subsubitem  refraction, \hyperpage{128}
+      \subsubitem  simple pendulum, \hyperpage{124}
+  \item Principle of moments, \hyperpage{125}
+  \item Pulleys, \hyperpage{198}
+
+  \indexspace
+
+  \item Qualitative analysis, \hyperpage{100}
+
+  \indexspace
+
+  \item Recycling, \hyperpage{50}
+  \item Refraction, \hyperpage{128}
+  \item Relative standardization, \hyperpage{64}
+  \item Resistors, \hyperpage{198}
+  \item Respiration, \hyperpage{86}
+  \item Retort stand, \hyperpage{198}
+
+  \indexspace
+
+  \item Scale pans, \hyperpage{199}
+  \item Scalpels, \hyperpage{199}
+  \item Science
+    \subitem  competitions, \hyperpage{138}, \hyperpage{140}
+    \subitem  conferences, \hyperpage{139}
+    \subitem  events, \hyperpage{137}
+    \subitem  fair, \hyperpage{138}
+  \item Silver nitrate
+    \subitem  recycling, \hyperpage{50}
+  \item Simple pendulum, \hyperpage{124}
+  \item Slides, \hyperpage{199}
+  \item Sodium hydrogen carbonate
+    \subitem  preparation of, \hyperpage{63}
+  \item Sodium hydroxide
+    \subitem  for food tests, \hyperpage{79}
+    \subitem  hazards and use of, \hyperpage{39}
+    \subitem  identification of, \hyperpage{23}
+    \subitem  preparation of, \hyperpage{63}
+  \item Solutions
+    \subitem  preparation of, \hyperpage{61}
+      \subsubitem  without a balance, \hyperpage{63}
+  \item Spatula, \hyperpage{199}
+  \item Specimens
+    \subitem  preparation of, \hyperpage{68}
+    \subitem  preservation of, \hyperpage{67}
+  \item Spring balance, \hyperpage{199}
+  \item Springs, \hyperpage{200}
+  \item Stoppers, \hyperpage{200}
+  \item Stopwatches, \hyperpage{200}
+  \item Sudan III solution
+    \subitem  for food tests, \hyperpage{79}
+  \item Sulphuric acid
+    \subitem  identification of, \hyperpage{21}
+    \subitem  preparation of, \hyperpage{63}
+  \item Syringes
+    \subitem  use of, \hyperpage{56}
+
+  \indexspace
+
+  \item Teacher trainings, \hyperpage{139}
+  \item Test tubes, \hyperpage{200}
+    \subitem  brushes, \hyperpage{200}
+    \subitem  holders, \hyperpage{201}
+    \subitem  racks, \hyperpage{201}
+  \item Titration, \hyperindexformat{\see{Volumetric analysis}}{93}
+  \item Transport, \hyperpage{87}
+  \item Tripod stands, \hyperpage{201}
+
+  \indexspace
+
+  \item Voltmeters
+    \subitem  checking, \hyperpage{16}
+  \item Volumetric analysis, \hyperpage{93}
+  \item Volumetric glassware, \hyperindexformat{\see{Containers}}{201}
+
+  \indexspace
+
+  \item Wash bottle, \hyperpage{201}
+  \item Waste disposal, \hyperpage{48}
+  \item Water bath, \hyperpage{201}
+  \item Weights, \hyperpage{202}
+  \item White tiles, \hyperpage{202}
+  \item Wire, \hyperpage{202}
+    \subitem  connecting, \hyperpage{202}
+    \subitem  nichrome, \hyperpage{198}
+    \subitem  specific gauge, \hyperpage{202}
+  \item Wire gauze, \hyperpage{202}
+
+  \indexspace
+
+  \item Zinc, \hyperindexformat{\see{Electrodes}}{194}
 
 \end{theindex}
