@@ -11,7 +11,7 @@
 % This keeps everything more organized.
 
 % Before actually getting to the document itself, we need some PREAMBLE info - state the class of document and declare any LaTeX packages we are going to use.
-\documentclass[pdftex,10pt,a4paper]{report}
+\documentclass[pdftex,10pt,a4paper,twoside]{report}
 
 % We want a variety of style packages.
 % We have them in a separate file - shika.sty - to keep this file tidy.
@@ -51,8 +51,7 @@
 \input{./tex/starting-school-labs.tex}
 \input{./tex/technical-lab-needs.tex}
 \input{./tex/improving-existing-labs.tex}
-\input{./tex/testing-voltmeters.tex}
-\input{./tex/burette-repair.tex}
+\input{./tex/salvaging-equipment.tex}
 \input{./tex/identifying-unknown-chemicals.tex}
 
 % Part 2 - Lab Safety
@@ -67,16 +66,21 @@
 \input{./tex/lab-classroom-management.tex}
 \input{./tex/routine-upkeep.tex}
 \input{./tex/waste-disposal.tex}
-\input{./tex/recycling-silver-nitrate.tex}
-\input{./tex/recycling-organic-waste.tex}
-\input{./tex/industrial-ecology.tex}
+\input{./tex/recycling-materials.tex}
 
 % Part 4 - Lab Techniques
 \input{./tex/part-lab-techniques.tex}
+% Lab Techniques in Chemistry
+\input{./tex/lab-tech-chem}
 \input{./tex/using-a-beam-balance.tex}
 \input{./tex/using-a-plastic-syringe.tex}
 \input{./tex/measures-of-concentration.tex}
 \input{./tex/calculating-bottle-molarity.tex}
+\input{./tex/preparation-of-solutions.tex}
+\input{./tex/preparation-of-solutions-without-balance.tex}
+\input{./tex/relative-standardization.tex}
+% Lab Techniques in Biology
+\input{./tex/lab-tech-bio}
 \input{./tex/preservation-of-specimens.tex}
 \input{./tex/dissection.tex}
 \input{./tex/culture-media.tex}
@@ -84,12 +88,17 @@
 \input{./tex/low-power-microscopy.tex}
 
 % Part 5 - NECTA Practicals
-\settocdepth{subsection} % Now we want to show up to the subsection level in the ToC
+\settocdepth{section} % Now we want to show up to the section level in the ToC
 \input{./tex/part-necta-practicals.tex}
 \input{./tex/biology-practicals.tex}
 \input{./tex/chemistry-practicals.tex}
 \input{./tex/physics-practicals.tex}
 \settocdepth{section} % Return to default
+
+% Part 6 - Science Activities and Competitions
+\input{./tex/part-science-activities.tex}
+\input{./tex/hosting-science-events.tex}
+\input{./tex/science-competitions.tex}
 
 % Appendix Chapters
 % Any chapters inserted after the \appendix command are just counted as chapters in the appendix. No need to change anything about the chapters themselves.
@@ -105,6 +114,7 @@
 \settocdepth{chapter} % Keep the ToC nice and tidy for these appendices.
 \input{./tex/sources-of-equipment.tex}
 %\input{./tex/sources-of-chemicals.tex}
+\input{./tex/science-shilling.tex}
 \input{./tex/glossary.tex}
 %\input{./tex/qa-guidesheet.tex}
 %\input{./tex/notes.tex}
