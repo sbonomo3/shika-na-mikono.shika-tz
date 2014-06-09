@@ -16,32 +16,64 @@
 \setcounter{secnumdepth}{0}
 \index{Past Papers!Physics!2013}
 \input{./tex/physics-2013-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2012}
 \input{./tex/physics-2012-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2011}
 \input{./tex/physics-2011-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2010}
 \input{./tex/physics-2010-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2009}
 \input{./tex/physics-2009-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2008}
 \input{./tex/physics-2008-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2007}
 \input{./tex/physics-2007-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2006}
 \input{./tex/physics-2006-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2005}
 \input{./tex/physics-2005-2a.tex}
+\vfill
 \pagebreak
 \index{Past Papers!Physics!2004}
 \input{./tex/physics-2004-2a.tex}
+\vfill
 \pagebreak
 \setcounter{secnumdepth}{2}
+
+
+
+
+% Headers and footers ("Page Styles" chapter in LaTeX manual)
+\setlength{\headheight}{15pt}
+
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
+\renewcommand{\sectionmark}[1]{ \markright{#1}{} }
+
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\textit{ \nouppercase{\leftmark}} } % \leftmark shows Chapter Name
+\fancyhead[LO]{\textit{ \nouppercase{\leftmark}} } % \rightmark shows Section Name
+
+\fancypagestyle{plain}{ % specific for plain pages (chapter pgs)
+	\fancyhf{} % remove everything
+	\fancyhf[FC]{\thepage} % show the page number
+	\renewcommand{\headrulewidth}{0pt} % remove lines as well
+	\renewcommand{\footrulewidth}{0pt}
+}
