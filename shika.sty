@@ -1,0 +1,70 @@
+% This file is dedicated to calling all of the different LaTeX packages that get used in the various .tex files throughout the document. 
+
+% Documentation and specific info on each package (and every LaTeX package known to man) can be found in the "doc" file (opens in a web browser) within the main texlive folder on your C: drive.
+
+\ProvidesPackage{shika}
+
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[version=3]{mhchem}
+\usepackage[USenglish]{babel}
+\usepackage{fontenc}
+\usepackage{pdflscape}
+\usepackage{longtable}
+\usepackage{rotating}
+\setcounter{tocdepth}{1}
+\usepackage{mdwlist}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{setspace}
+%\usepackage{enumitem}
+\usepackage{titlesec}
+\titlespacing*{\chapter}{0pt}{-50pt}{20pt}[20pt]
+\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\
+\thechapter}{20pt}{\Huge}
+
+%\titlespacing*{\chapter}{0pt}{-50pt}{20pt}
+%\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{%\chaptertitlename\
+%%\thechapter
+%}{20pt}{\huge}
+
+\usepackage{tocvsec2}
+\usepackage{makeidx}
+\makeindex
+
+
+\usepackage{hyperref}
+\hypersetup{colorlinks, linkcolor=blue, urlcolor=red}
+
+\usepackage{graphicx}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+\usepackage{pdfpages}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\usepackage[margin=1.0in]{geometry}
+
+% Headers and footers ("Page Styles" chapter in LaTeX manual)
+\usepackage{fancyhdr}
+\setlength{\headheight}{15pt}
+
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
+\renewcommand{\sectionmark}[1]{ \markright{#1}{} }
+
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\textit{ \nouppercase{\leftmark}} } % \leftmark shows Chapter Name
+\fancyhead[LO]{\textit{ \nouppercase{\leftmark}} } % \rightmark shows Section Name
+
+\fancypagestyle{plain}{ % specific for plain pages (chapter pgs)
+	\fancyhf{} % remove everything
+	\fancyhf[FC]{\thepage} % show the page number
+	\renewcommand{\headrulewidth}{0pt} % remove lines as well
+	\renewcommand{\footrulewidth}{0pt}
+}
