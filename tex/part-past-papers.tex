@@ -2,3 +2,23 @@
 \phantomsection
 \addcontentsline{toc}{part}{NECTA Practical Past Papers}
 \part*{NECTA Practical Past Papers} \index{Past Papers}
+
+
+% Headers and footers ("Page Styles" chapter in LaTeX manual)
+\setlength{\headheight}{15pt}
+
+\pagestyle{fancy}
+\renewcommand{\partmark}[1]{ \markboth{#1}{} }
+\renewcommand{\partmark}[1]{ \markright{#1}{} }
+
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{ } % \leftmark shows Chapter Name
+\fancyhead[LO]{ } % \rightmark shows Section Name
+
+\fancypagestyle{plain}{ % specific for plain pages (chapter pgs)
+	\fancyhf{} % remove everything
+	\fancyhf[FC]{\thepage} % show the page number
+	\renewcommand{\headrulewidth}{0pt} % remove lines as well
+	\renewcommand{\footrulewidth}{0pt}
+}
