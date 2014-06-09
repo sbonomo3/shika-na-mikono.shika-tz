@@ -1,210 +1,209 @@
-\indexentry{Laboratory! starting|hyperpage}{10}
-\indexentry{Laboratory! technical needs|hyperpage}{11}
-\indexentry{Laboratory! improving|hyperpage}{14}
-\indexentry{Equipment! salvaging|hyperpage}{16}
-\indexentry{Voltmeters! checking|hyperpage}{16}
-\indexentry{Ammeters! checking|hyperpage}{16}
-\indexentry{Burettes! repairing|hyperpage}{17}
-\indexentry{Chemicals! unknown|hyperpage}{19}
-\indexentry{Sulphuric acid! identification of|hyperpage}{21}
-\indexentry{Hydrochloric acid! identification of|hyperpage}{21}
-\indexentry{Sodium hydroxide! identification of|hyperpage}{23}
-\indexentry{Hydrogen peroxide! identification of|hyperpage}{23}
-\indexentry{Iodine solution! identification of|hyperpage}{23}
-\indexentry{Laboratory! safety guidelines|hyperpage}{28}
-\indexentry{Laboratory! rules|hyperpage}{28}
-\indexentry{First aid|hyperpage}{32}
-\indexentry{Chemicals! dangerous|hyperpage}{35}
-\indexentry{Sodium hydroxide! hazards and use of|hyperpage}{39}
-\indexentry{Ethanol! hazards and use of|hyperpage}{40}
-\indexentry{Pipettes! mouth pipetting|hyperpage}{41}
-\indexentry{Laboratory! classroom management|hyperpage}{44}
-\indexentry{Laboratory! cleanup and upkeep|hyperpage}{46}
-\indexentry{Waste disposal|hyperpage}{48}
-\indexentry{Organic waste! disposal of|hyperpage}{48}
-\indexentry{Recycling|hyperpage}{50}
-\indexentry{Silver nitrate! recycling|hyperpage}{50}
-\indexentry{Organic waste! recycling|hyperpage}{50}
-\indexentry{Industrial ecology|hyperpage}{51}
-\indexentry{Laboratory techniques|hyperpage}{53}
-\indexentry{Laboratory techniques! Chemistry|hyperpage}{54}
-\indexentry{Beam balance! use of|hyperpage}{54}
-\indexentry{Syringes! use of|hyperpage}{56}
-\indexentry{Molarity! measure of|hyperpage}{58}
-\indexentry{Normality|hyperpage}{58}
-\indexentry{Molality|hyperpage}{59}
-\indexentry{Molarity! calculating for bottled liquids|hyperpage}{60}
-\indexentry{Solutions! preparation of|hyperpage}{61}
-\indexentry{Solutions! preparation of! without a balance|hyperpage}{63}
-\indexentry{Sulphuric acid! preparation of|hyperpage}{63}
-\indexentry{Citric acid! preparation of|hyperpage}{63}
-\indexentry{Sodium hydroxide! preparation of|hyperpage}{63}
-\indexentry{Sodium hydrogen carbonate! preparation of|hyperpage}{63}
-\indexentry{Relative standardization|hyperpage}{64}
-\indexentry{Laboratory techniques! Biology|hyperpage}{67}
-\indexentry{Specimens! preservation of|hyperpage}{67}
-\indexentry{Dissection|hyperpage}{68}
-\indexentry{Specimens! preparation of|hyperpage}{68}
-\indexentry{Culture media|hyperpage}{70}
-\indexentry{Microscope! use of|hyperpage}{72}
-\indexentry{Microscope! low tech|hyperpage}{74}
-\indexentry{Practicals|hyperpage}{77}
-\indexentry{NECTA Practicals|hyperindexformat{\see{Practicals}}}{77}
-\indexentry{Practicals! Biology|hyperpage}{77}
-\indexentry{Practicals! Biology! food tests|hyperpage}{78}
-\indexentry{Food tests|hyperpage}{78}
-\indexentry{Benedict's solution! for food tests|hyperpage}{78}
-\indexentry{Copper sulphate! for food tests|hyperpage}{78}
-\indexentry{Iodine solution! for food tests|hyperpage}{79}
-\indexentry{Sodium hydroxide! for food tests|hyperpage}{79}
-\indexentry{Hydrochloric acid! for food tests|hyperpage}{79}
-\indexentry{Citric acid! for food tests|hyperpage}{79}
-\indexentry{Sudan III solution! for food tests|hyperpage}{79}
-\indexentry{Practicals! Biology! classification|hyperpage}{83}
-\indexentry{Classification|hyperpage}{83}
-\indexentry{Practicals! Biology! respiration|hyperpage}{86}
-\indexentry{Respiration|hyperpage}{86}
-\indexentry{Practicals! Biology! transport|hyperpage}{87}
-\indexentry{Transport|hyperpage}{87}
-\indexentry{Practicals! Biology! photosynthesis|hyperpage}{89}
-\indexentry{Photosynthesis|hyperpage}{89}
-\indexentry{Practicals! Chemistry|hyperpage}{92}
-\indexentry{Practicals! Chemistry! volumetric analysis|hyperpage}{93}
-\indexentry{Volumetric analysis|hyperpage}{93}
-\indexentry{Titration|hyperindexformat{\see{Volumetric analysis}}}{93}
-\indexentry{Indicators! properties of|hyperpage}{96}
-\indexentry{Indicators! preparation of|hyperpage}{97}
-\indexentry{Phenolphthalein! preparation of|hyperpage}{97}
-\indexentry{Practicals! Chemistry! qualitative analysis|hyperpage}{104}
-\indexentry{Qualitative analysis|hyperpage}{104}
-\indexentry{Practicals! Chemistry! chemical kinetics and equilibrium|hyperpage}{117}
-\indexentry{Chemical kinetics|hyperpage}{117}
-\indexentry{Equilibrium|hyperindexformat{\see{Chemical kinetics}}}{117}
-\indexentry{Practicals! Physics|hyperpage}{121}
-\indexentry{Practicals! Physics! mathematics of|hyperpage}{123}
-\indexentry{Practicals! Physics! Hooke's law|hyperpage}{125}
-\indexentry{Hooke's law|hyperpage}{125}
-\indexentry{Practicals! Physics! simple pendulum|hyperpage}{127}
-\indexentry{Simple pendulum|hyperpage}{127}
-\indexentry{Practicals! Physics! principle of moments|hyperpage}{128}
-\indexentry{Principle of moments|hyperpage}{128}
-\indexentry{Practicals! Physics! plane mirror|hyperpage}{130}
-\indexentry{Mirrors! plane! practical of|hyperpage}{130}
-\indexentry{Practicals! Physics! refraction|hyperpage}{131}
-\indexentry{Refraction|hyperpage}{131}
-\indexentry{Critical angle|hyperpage}{133}
-\indexentry{Practicals! Physics! potentiometers|hyperpage}{134}
-\indexentry{Potentiometers|hyperpage}{134}
-\indexentry{Practicals! Physics! metre bridge|hyperpage}{135}
-\indexentry{Metre bridge|hyperpage}{135}
-\indexentry{Practicals! Physics! Ohm's law|hyperpage}{137}
-\indexentry{Ohm's law|hyperpage}{137}
-\indexentry{Science! events|hyperpage}{140}
-\indexentry{Box of fun|hyperpage}{140}
-\indexentry{Gallery walk|hyperpage}{140}
-\indexentry{Science! fair|hyperpage}{141}
-\indexentry{Science! competitions|hyperpage}{141}
-\indexentry{Science! conferences|hyperpage}{142}
-\indexentry{Teacher trainings|hyperpage}{142}
+\indexentry{Laboratory! starting|hyperpage}{12}
+\indexentry{Laboratory! technical needs|hyperpage}{13}
+\indexentry{Laboratory! improving|hyperpage}{16}
+\indexentry{Equipment! salvaging|hyperpage}{18}
+\indexentry{Voltmeters! checking|hyperpage}{18}
+\indexentry{Ammeters! checking|hyperpage}{18}
+\indexentry{Burettes! repairing|hyperpage}{19}
+\indexentry{Chemicals! unknown|hyperpage}{21}
+\indexentry{Sulphuric acid! identification of|hyperpage}{23}
+\indexentry{Hydrochloric acid! identification of|hyperpage}{23}
+\indexentry{Sodium hydroxide! identification of|hyperpage}{25}
+\indexentry{Hydrogen peroxide! identification of|hyperpage}{25}
+\indexentry{Iodine solution! identification of|hyperpage}{25}
+\indexentry{Laboratory! safety guidelines|hyperpage}{30}
+\indexentry{Laboratory! rules|hyperpage}{30}
+\indexentry{First aid|hyperpage}{34}
+\indexentry{Chemicals! dangerous|hyperpage}{37}
+\indexentry{Sodium hydroxide! hazards and use of|hyperpage}{41}
+\indexentry{Ethanol! hazards and use of|hyperpage}{42}
+\indexentry{Pipettes! mouth pipetting|hyperpage}{43}
+\indexentry{Laboratory! classroom management|hyperpage}{46}
+\indexentry{Laboratory! cleanup and upkeep|hyperpage}{48}
+\indexentry{Waste disposal|hyperpage}{50}
+\indexentry{Organic waste! disposal of|hyperpage}{50}
+\indexentry{Recycling|hyperpage}{52}
+\indexentry{Silver nitrate! recycling|hyperpage}{52}
+\indexentry{Organic waste! recycling|hyperpage}{52}
+\indexentry{Industrial ecology|hyperpage}{53}
+\indexentry{Laboratory techniques|hyperpage}{55}
+\indexentry{Laboratory techniques! Chemistry|hyperpage}{56}
+\indexentry{Beam balance! use of|hyperpage}{56}
+\indexentry{Syringes! use of|hyperpage}{58}
+\indexentry{Molarity! measure of|hyperpage}{60}
+\indexentry{Normality|hyperpage}{60}
+\indexentry{Molality|hyperpage}{61}
+\indexentry{Molarity! calculating for bottled liquids|hyperpage}{62}
+\indexentry{Solutions! preparation of|hyperpage}{63}
+\indexentry{Solutions! preparation of! without a balance|hyperpage}{65}
+\indexentry{Sulphuric acid! preparation of|hyperpage}{65}
+\indexentry{Citric acid! preparation of|hyperpage}{65}
+\indexentry{Sodium hydroxide! preparation of|hyperpage}{65}
+\indexentry{Sodium hydrogen carbonate! preparation of|hyperpage}{65}
+\indexentry{Relative standardization|hyperpage}{66}
+\indexentry{Laboratory techniques! Biology|hyperpage}{69}
+\indexentry{Specimens! preservation of|hyperpage}{69}
+\indexentry{Dissection|hyperpage}{70}
+\indexentry{Specimens! preparation of|hyperpage}{70}
+\indexentry{Culture media|hyperpage}{72}
+\indexentry{Microscope! use of|hyperpage}{74}
+\indexentry{Microscope! low tech|hyperpage}{76}
+\indexentry{Cover slips|hyperpage}{76}
+\indexentry{Practicals|hyperpage}{79}
+\indexentry{NECTA Practicals|hyperindexformat{\see{Practicals}}}{79}
+\indexentry{Practicals! Biology|hyperpage}{79}
+\indexentry{Practicals! Biology! food tests|hyperpage}{80}
+\indexentry{Food tests|hyperpage}{80}
+\indexentry{Benedict's solution! for food tests|hyperpage}{80}
+\indexentry{Copper sulphate! for food tests|hyperpage}{80}
+\indexentry{Iodine solution! for food tests|hyperpage}{81}
+\indexentry{Sodium hydroxide! for food tests|hyperpage}{81}
+\indexentry{Hydrochloric acid! for food tests|hyperpage}{81}
+\indexentry{Citric acid! for food tests|hyperpage}{81}
+\indexentry{Sudan III solution! for food tests|hyperpage}{81}
+\indexentry{Practicals! Biology! classification|hyperpage}{85}
+\indexentry{Classification|hyperpage}{85}
+\indexentry{Practicals! Biology! respiration|hyperpage}{88}
+\indexentry{Respiration|hyperpage}{88}
+\indexentry{Practicals! Biology! transport|hyperpage}{89}
+\indexentry{Transport|hyperpage}{89}
+\indexentry{Practicals! Biology! photosynthesis|hyperpage}{91}
+\indexentry{Photosynthesis|hyperpage}{91}
+\indexentry{Practicals! Chemistry|hyperpage}{94}
+\indexentry{Practicals! Chemistry! volumetric analysis|hyperpage}{95}
+\indexentry{Volumetric analysis|hyperpage}{95}
+\indexentry{Titration|hyperindexformat{\see{Volumetric analysis}}}{95}
+\indexentry{Indicators! properties of|hyperpage}{98}
+\indexentry{Indicators! preparation of|hyperpage}{99}
+\indexentry{Phenolphthalein! preparation of|hyperpage}{99}
+\indexentry{Practicals! Chemistry! qualitative analysis|hyperpage}{106}
+\indexentry{Qualitative analysis|hyperpage}{106}
+\indexentry{Practicals! Chemistry! chemical kinetics and equilibrium|hyperpage}{119}
+\indexentry{Chemical kinetics|hyperpage}{119}
+\indexentry{Equilibrium|hyperindexformat{\see{Chemical kinetics}}}{119}
+\indexentry{Practicals! Physics|hyperpage}{123}
+\indexentry{Practicals! Physics! mathematics of|hyperpage}{125}
+\indexentry{Practicals! Physics! Hooke's law|hyperpage}{127}
+\indexentry{Hooke's law|hyperpage}{127}
+\indexentry{Practicals! Physics! simple pendulum|hyperpage}{129}
+\indexentry{Simple pendulum|hyperpage}{129}
+\indexentry{Practicals! Physics! principle of moments|hyperpage}{130}
+\indexentry{Principle of moments|hyperpage}{130}
+\indexentry{Practicals! Physics! plane mirror|hyperpage}{132}
+\indexentry{Mirrors! plane! practical of|hyperpage}{132}
+\indexentry{Practicals! Physics! refraction|hyperpage}{133}
+\indexentry{Refraction|hyperpage}{133}
+\indexentry{Critical angle|hyperpage}{135}
+\indexentry{Practicals! Physics! potentiometers|hyperpage}{136}
+\indexentry{Potentiometers|hyperpage}{136}
+\indexentry{Practicals! Physics! metre bridge|hyperpage}{137}
+\indexentry{Metre bridge|hyperpage}{137}
+\indexentry{Practicals! Physics! Ohm's law|hyperpage}{139}
+\indexentry{Ohm's law|hyperpage}{139}
+\indexentry{Science! events|hyperpage}{142}
+\indexentry{Box of fun|hyperpage}{142}
+\indexentry{Gallery walk|hyperpage}{142}
+\indexentry{Science! fair|hyperpage}{143}
 \indexentry{Science! competitions|hyperpage}{143}
-\indexentry{Egg drop|hyperpage}{144}
-\indexentry{Jenga Jengo|hyperpage}{145}
-\indexentry{Raft Rally|hyperpage}{146}
-\indexentry{Drop Zone|hyperpage}{147}
-\indexentry{Bridge Challenge|hyperpage}{148}
-\indexentry{Scientific procedure|hyperpage}{150}
-\indexentry{Past Papers|hyperpage}{159}
-\indexentry{Past Papers!Biology|hyperpage}{160}
-\indexentry{Past Papers!Biology!2013|hyperpage}{160}
-\indexentry{Past Papers!Biology!2012|hyperpage}{161}
-\indexentry{Past Papers!Biology!2011|hyperpage}{162}
-\indexentry{Past Papers!Biology!2010|hyperpage}{163}
-\indexentry{Past Papers!Biology!2009|hyperpage}{164}
-\indexentry{Past Papers!Biology!2008|hyperpage}{165}
-\indexentry{Past Papers!Biology!2007|hyperpage}{166}
-\indexentry{Past Papers!Chemistry|hyperpage}{168}
-\indexentry{Past Papers!Chemistry! 2013|hyperpage}{168}
-\indexentry{Past Papers!Chemistry! 2012|hyperpage}{170}
-\indexentry{Past Papers!Chemistry! 2011|hyperpage}{172}
-\indexentry{Past Papers!Chemistry! 2010|hyperpage}{174}
-\indexentry{Past Papers!Chemistry! 2009|hyperpage}{176}
-\indexentry{Past Papers!Chemistry! 2008|hyperpage}{178}
-\indexentry{Past Papers!Chemistry! 2007|hyperpage}{180}
-\indexentry{Past Papers!Physics|hyperpage}{183}
-\indexentry{Past Papers!Physics!2013|hyperpage}{183}
-\indexentry{Past Papers!Physics!2012|hyperpage}{185}
-\indexentry{Past Papers!Physics!2011|hyperpage}{187}
-\indexentry{Past Papers!Physics!2010|hyperpage}{188}
-\indexentry{Past Papers!Physics!2009|hyperpage}{191}
-\indexentry{Past Papers!Physics!2008|hyperpage}{193}
-\indexentry{Past Papers!Physics!2007|hyperpage}{196}
-\indexentry{Past Papers!Physics!2006|hyperpage}{199}
-\indexentry{Past Papers!Physics!2005|hyperpage}{201}
-\indexentry{Past Papers!Physics!2004|hyperpage}{203}
-\indexentry{Equipment! sources of|hyperpage}{206}
-\indexentry{Alligator clips|hyperpage}{207}
-\indexentry{Beam balance! construction of|hyperpage}{207}
-\indexentry{Beakers|hyperpage}{207}
-\indexentry{Blowpipe|hyperpage}{207}
-\indexentry{Bulbs|hyperpage}{208}
-\indexentry{Bunsen burner|hyperindexformat{\see{Heat sources}}}{208}
-\indexentry{Burettes! sources of|hyperpage}{208}
-\indexentry{Circuit components|hyperpage}{208}
-\indexentry{Containers|hyperpage}{208}
-\indexentry{Crucible|hyperpage}{208}
-\indexentry{Deflagrating spoon|hyperpage}{209}
-\indexentry{Delivery tube|hyperpage}{209}
-\indexentry{Drawing board|hyperpage}{209}
-\indexentry{Droppers|hyperpage}{209}
-\indexentry{Electrodes|hyperpage}{209}
-\indexentry{Graphite|hyperindexformat{\see{Electrodes}}}{209}
-\indexentry{Zinc|hyperindexformat{\see{Electrodes}}}{209}
-\indexentry{Iron|hyperindexformat{\see{Electrodes}}}{210}
-\indexentry{Copper|hyperindexformat{\see{Electrodes}}}{210}
-\indexentry{Electrodes! holders|hyperpage}{210}
-\indexentry{Eureka can|hyperpage}{210}
-\indexentry{Filter paper|hyperpage}{210}
-\indexentry{Flasks|hyperpage}{210}
-\indexentry{Funnel|hyperpage}{210}
-\indexentry{Glass blocks|hyperpage}{211}
-\indexentry{Gloves|hyperpage}{211}
-\indexentry{Goggles|hyperpage}{211}
-\indexentry{Heat sources|hyperpage}{211}
-\indexentry{Indicators! sources of|hyperpage}{212}
-\indexentry{Iron filings|hyperpage}{212}
-\indexentry{Masses|hyperindexformat{\see{Weights}}}{212}
-\indexentry{Measuring cylinder|hyperpage}{212}
-\indexentry{Metre rule|hyperpage}{213}
-\indexentry{Mirrors|hyperpage}{213}
-\indexentry{Mirrors! plane|hyperpage}{213}
-\indexentry{Mirrors! curved|hyperpage}{213}
-\indexentry{Mortar and pestle|hyperpage}{213}
-\indexentry{Wire! nichrome|hyperpage}{213}
-\indexentry{Optical pins|hyperpage}{213}
-\indexentry{Pipettes|hyperpage}{213}
-\indexentry{Pulleys|hyperpage}{213}
-\indexentry{Resistors|hyperpage}{214}
-\indexentry{Retort stand|hyperpage}{214}
-\indexentry{Scale pans|hyperpage}{214}
-\indexentry{Scalpels|hyperpage}{214}
-\indexentry{Slides|hyperpage}{214}
-\indexentry{Cover slips|hyperpage}{214}
-\indexentry{Spatula|hyperpage}{215}
-\indexentry{Spring balance|hyperpage}{215}
-\indexentry{Springs|hyperpage}{215}
-\indexentry{Stoppers|hyperpage}{215}
-\indexentry{Stopwatches|hyperpage}{215}
-\indexentry{Test tubes|hyperpage}{216}
-\indexentry{Test tubes! brushes|hyperpage}{216}
-\indexentry{Test tubes! holders|hyperpage}{216}
-\indexentry{Test tubes! racks|hyperpage}{216}
-\indexentry{Tripod stands|hyperpage}{217}
-\indexentry{Volumetric glassware|hyperindexformat{\see{Containers}}}{217}
-\indexentry{Wash bottle|hyperpage}{217}
-\indexentry{Water bath|hyperpage}{217}
-\indexentry{Weights|hyperpage}{217}
-\indexentry{White tiles|hyperpage}{218}
-\indexentry{Wire|hyperpage}{218}
-\indexentry{Wire! connecting|hyperpage}{218}
-\indexentry{Wire! specific gauge|hyperpage}{218}
-\indexentry{Wire gauze|hyperpage}{218}
+\indexentry{Science! conferences|hyperpage}{144}
+\indexentry{Teacher trainings|hyperpage}{144}
+\indexentry{Science! competitions|hyperpage}{145}
+\indexentry{Egg drop|hyperpage}{146}
+\indexentry{Jenga Jengo|hyperpage}{147}
+\indexentry{Raft Rally|hyperpage}{148}
+\indexentry{Drop Zone|hyperpage}{149}
+\indexentry{Bridge Challenge|hyperpage}{150}
+\indexentry{Scientific procedure|hyperpage}{152}
+\indexentry{Past Papers|hyperpage}{161}
+\indexentry{Past Papers!Biology|hyperpage}{162}
+\indexentry{Past Papers!Biology!2013|hyperpage}{162}
+\indexentry{Past Papers!Biology!2012|hyperpage}{163}
+\indexentry{Past Papers!Biology!2011|hyperpage}{164}
+\indexentry{Past Papers!Biology!2010|hyperpage}{165}
+\indexentry{Past Papers!Biology!2009|hyperpage}{166}
+\indexentry{Past Papers!Biology!2008|hyperpage}{167}
+\indexentry{Past Papers!Biology!2007|hyperpage}{168}
+\indexentry{Past Papers!Chemistry|hyperpage}{170}
+\indexentry{Past Papers!Chemistry! 2013|hyperpage}{170}
+\indexentry{Past Papers!Chemistry! 2012|hyperpage}{172}
+\indexentry{Past Papers!Chemistry! 2011|hyperpage}{174}
+\indexentry{Past Papers!Chemistry! 2010|hyperpage}{176}
+\indexentry{Past Papers!Chemistry! 2009|hyperpage}{178}
+\indexentry{Past Papers!Chemistry! 2008|hyperpage}{180}
+\indexentry{Past Papers!Chemistry! 2007|hyperpage}{182}
+\indexentry{Past Papers!Physics|hyperpage}{185}
+\indexentry{Past Papers!Physics!2013|hyperpage}{185}
+\indexentry{Past Papers!Physics!2012|hyperpage}{187}
+\indexentry{Past Papers!Physics!2011|hyperpage}{189}
+\indexentry{Past Papers!Physics!2010|hyperpage}{190}
+\indexentry{Past Papers!Physics!2009|hyperpage}{193}
+\indexentry{Past Papers!Physics!2008|hyperpage}{195}
+\indexentry{Past Papers!Physics!2007|hyperpage}{198}
+\indexentry{Past Papers!Physics!2006|hyperpage}{201}
+\indexentry{Past Papers!Physics!2005|hyperpage}{203}
+\indexentry{Past Papers!Physics!2004|hyperpage}{205}
+\indexentry{Equipment! sources of|hyperpage}{208}
+\indexentry{Alligator clips|hyperpage}{209}
+\indexentry{Beam balance! construction of|hyperpage}{209}
+\indexentry{Beakers|hyperpage}{209}
+\indexentry{Blowpipe|hyperpage}{209}
+\indexentry{Bulbs|hyperpage}{210}
+\indexentry{Bunsen burner|hyperindexformat{\see{Heat sources}}}{210}
+\indexentry{Burettes! sources of|hyperpage}{210}
+\indexentry{Circuit components|hyperpage}{210}
+\indexentry{Containers|hyperpage}{210}
+\indexentry{Crucible|hyperpage}{210}
+\indexentry{Deflagrating spoon|hyperpage}{211}
+\indexentry{Delivery tube|hyperpage}{211}
+\indexentry{Drawing board|hyperpage}{211}
+\indexentry{Droppers|hyperpage}{211}
+\indexentry{Electrodes|hyperpage}{211}
+\indexentry{Graphite|hyperindexformat{\see{Electrodes}}}{211}
+\indexentry{Zinc|hyperindexformat{\see{Electrodes}}}{211}
+\indexentry{Iron|hyperindexformat{\see{Electrodes}}}{212}
+\indexentry{Copper|hyperindexformat{\see{Electrodes}}}{212}
+\indexentry{Electrodes! holders|hyperpage}{212}
+\indexentry{Eureka can|hyperpage}{212}
+\indexentry{Filter paper|hyperpage}{212}
+\indexentry{Flasks|hyperpage}{212}
+\indexentry{Funnel|hyperpage}{212}
+\indexentry{Glass blocks|hyperpage}{213}
+\indexentry{Gloves|hyperpage}{213}
+\indexentry{Goggles|hyperpage}{213}
+\indexentry{Heat sources|hyperpage}{213}
+\indexentry{Indicators! sources of|hyperpage}{214}
+\indexentry{Iron filings|hyperpage}{214}
+\indexentry{Masses|hyperindexformat{\see{Weights}}}{214}
+\indexentry{Measuring cylinder|hyperpage}{214}
+\indexentry{Metre rule|hyperpage}{215}
+\indexentry{Mirrors|hyperpage}{215}
+\indexentry{Mirrors! plane|hyperpage}{215}
+\indexentry{Mirrors! curved|hyperpage}{215}
+\indexentry{Mortar and pestle|hyperpage}{215}
+\indexentry{Wire! nichrome|hyperpage}{215}
+\indexentry{Optical pins|hyperpage}{215}
+\indexentry{Pipettes|hyperpage}{215}
+\indexentry{Pulleys|hyperpage}{215}
+\indexentry{Resistors|hyperpage}{216}
+\indexentry{Retort stand|hyperpage}{216}
+\indexentry{Scale pans|hyperpage}{216}
+\indexentry{Scalpels|hyperpage}{216}
+\indexentry{Slides|hyperpage}{216}
+\indexentry{Cover slips|hyperpage}{216}
+\indexentry{Spatula|hyperpage}{217}
+\indexentry{Spring balance|hyperpage}{217}
+\indexentry{Springs|hyperpage}{217}
+\indexentry{Stoppers|hyperpage}{217}
+\indexentry{Stopwatches|hyperpage}{217}
+\indexentry{Test tubes|hyperpage}{218}
+\indexentry{Test tubes! brushes|hyperpage}{218}
+\indexentry{Test tubes! holders|hyperpage}{218}
+\indexentry{Test tubes! racks|hyperpage}{218}
+\indexentry{Tripod stands|hyperpage}{219}
+\indexentry{Volumetric glassware|hyperindexformat{\see{Containers}}}{219}
+\indexentry{Wash bottle|hyperpage}{219}
+\indexentry{Water bath|hyperpage}{219}
+\indexentry{Weights|hyperpage}{219}
+\indexentry{White tiles|hyperpage}{220}
+\indexentry{Wire! connecting|hyperpage}{220}
+\indexentry{Wire gauze|hyperpage}{220}
